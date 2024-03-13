@@ -1,7 +1,7 @@
 Howdy.
 
 Hi this is the demo for my repo.
-My name is Nick Buonarota.
+My name is Frank the Tank.
 My favorite number is 343.
 
 This is for class! :)
