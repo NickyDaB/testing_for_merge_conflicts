@@ -2,6 +2,6 @@ Howdy.
 
 Hi this is the demo for my repo.
 My name is Nick Buonarota.
-My favorite number is 37.
+My favorite number is 343.
 
 This is for class! :)
