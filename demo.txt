@@ -2,7 +2,7 @@ Howdy.
 
 Hi this is the demo for my repo.
 
-My name is Frank the Tank.
+My name is Frank the Pancake.
 My favorite number is 343.
 My name is Tony Fuduzo.
 My favorite number is 9001.
